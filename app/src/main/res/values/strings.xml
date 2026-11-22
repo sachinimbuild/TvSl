@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LankaTV</string>
+    <string name="app_tagline">Sri Lankan Live TV • 1h Rewind</string>
+    <string name="live_badge">LIVE</string>
+    <string name="timeshift_badge">DVR</string>
+    <string name="go_live">GO LIVE</string>
+    <string name="mobile_data_mode">Mobile Data Mode</string>
+    <string name="reverse_buffer_title">1-Hour Reverse Buffer</string>
+    <string name="add_custom_stream">Add Custom Stream</string>
+</resources>

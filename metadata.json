@@ -1,0 +1,6 @@
+{
+  "name": "LankaTV",
+  "description": "Live Sri Lankan TV streaming optimized for mobile data with a 1-hour reverse timeshift buffer and dark broadcast studio UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
